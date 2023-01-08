@@ -1,4 +1,4 @@
-Read Me Text File - Jacqueline Ho, Jonathan Feng					Wednesday Jan 27, 2020
+Read Me Text File - Jacqueline Ho, Jonathan Feng					
 
 Partner Responsibilities:
 
@@ -33,11 +33,6 @@ Additional Functionalities:
 Missing Functionalities:
 
 - no missing functionalities
-
-
-Known bugs / errors:
-
-- Castling will still occur if the rook has been moved but will not move if the king has been moved :/ 
 
 
 
